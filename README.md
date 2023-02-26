@@ -2,7 +2,8 @@
 
 ## 클린아키텍처를 적용한 심플한 예제
 
-![](../../../../var/folders/6q/x7qnh9cn4kd_dkrwq8y_lym00000gn/T/TemporaryItems/NSIRD_screencaptureui_OuiaSd/스크린샷 2023-02-26 15.58.27.png)
+![kk](https://user-images.githubusercontent.com/48645552/221397061-9177e2d2-b560-485c-9ca1-e19fb2dce50f.jpg)
+
 
 ## MySQL 설정
 
