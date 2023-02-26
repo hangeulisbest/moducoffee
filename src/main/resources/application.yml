@@ -1,0 +1,10 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/moducoffee?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 1234
+
+logging:
+  level:
+    org.springframework.r2dbc.core: debug
+
